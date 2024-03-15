@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Kat-UNIT21\\Kat-UNIT21.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Kat-UNIT21\\Kat-UNIT21.csproj",
+        "projectName": "Kat-UNIT21",
+        "projectPath": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Kat-UNIT21\\Kat-UNIT21.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\Kat\\.nuget\\packages\\",
+        "outputPath": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Kat-UNIT21\\Kat-UNIT21.csproj": {
+                "projectPath": "G:\\--- UNIT 21 ---\\---THE PROGRAM---\\Kat-UNIT21\\Kat-UNIT21\\Kat-UNIT21.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
